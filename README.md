@@ -7,7 +7,7 @@ the second line is the correct answer
 and lines 3-5 are the other answers.
 
 ---------------------for example:
-Question 1:  How many points does David Star have?
+Question 1:  How many points does David Star have?</br>
 Six
 Five
 Nine
