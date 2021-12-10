@@ -14,6 +14,8 @@ Nine</br>
 Three</br>
 <a>-----------------------------end of example</a></br>
 
+Next you should put the text file in the project file and run the project. 
+
 
 <img width="363" alt="image" src="https://user-images.githubusercontent.com/63601971/145600748-374b6bdc-d35d-4e76-a593-7933c3d5ec02.png">
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/63601971/145600913-cbae3263-6a63-4c3f-8b9d-50d606cb39f5.png">
