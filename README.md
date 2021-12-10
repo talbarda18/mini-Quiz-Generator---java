@@ -6,13 +6,13 @@ The file will contain 5 line blocks, the first line of each block is the questio
 the second line is the correct answer
 and lines 3-5 are the other answers.
 
----------------------for example:
+<a>---------------------for example:</a></br>
 Question 1:  How many points does David Star have?</br>
-Six
-Five
-Nine
-Three
------------------------------end of example
+Six</br>
+Five</br>
+Nine</br>
+Three</br>
+<a>-----------------------------end of example</a></br>
 
 
 <img width="363" alt="image" src="https://user-images.githubusercontent.com/63601971/145600748-374b6bdc-d35d-4e76-a593-7933c3d5ec02.png">
